@@ -60,7 +60,7 @@ Setting up:
 Debugging without the app:
 - There is a User1.java that creates instances of Usernodes (in the Eclipse project). But to make it connect to the right servers you will have to add the ips and ports of the servers in the confUser.txt file.
 
-Class explanations:
+## Class explanations
 - **MultimediaFile** -> It is a chunk of a file that needs to be send to another location.
 - **Usernode** -> It is the basic user. Upon instantiation it connects randomly to one of the available servers.
 - **Publisher** -> Basically a thread that will run when a user decides to publish a file. It will send all the file chunks (MultimediaFile objects) to the server so that the server can save them to it's history. Once the uploading process is completed the thread terminates.
