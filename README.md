@@ -31,7 +31,7 @@ Concurrency is inevitable because the system is required to offer simultaneous d
 The aforementioned model is backed backed by the two core functions that can be described by the following figure;
 
 <p align="center">
-  <img src="https://github.com/giannismparous/SmartChatters/blob/master/framework_prototype.png" />
+  <img src="https://github.com/giannismparous/SmartChatters/blob/main/framework_prototype.png" />
 </p>
 
 <p align="center">
