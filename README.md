@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SmartChatters
 
 A very simple distributed messenger app for Android.
@@ -67,6 +66,3 @@ Debugging without the app:
 - **Publisher** -> Basically a thread that will run when a user decides to publish a file. It will send all the file chunks (MultimediaFile objects) to the server so that the server can save them to it's history. Once the uploading process is completed the thread terminates.
 - **Consumer** -> Basically a thread that is always running and receiving new file chunks. This is possible by keeping an internal index of the files that it has received from a topic and comparing with the chunk history size of the actual topic. If the Consumer has less chunks than the topic, it will start pulling new chunks from it. There is 1 consumer thread running for each topic the user is subscribed to.
 
-=======
-# SmartChatters
->>>>>>> main
