@@ -1,4 +1,4 @@
-# SmartChatters
+# SmartChat
 
 A very simple distributed messenger app for Android.
 
