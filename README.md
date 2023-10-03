@@ -20,7 +20,7 @@ The system is divided in two parts:
 
 ## Event Delivery System
 
-The Event Delivery System is a programming framework that allows sending and receiving data that fulfill specific criteria. The advantage of the Event Delivery System is the immediate forwarding of data in real time via two fundamental functions; `push` and `pull`. These two functions are independent of each other. 
+The Event Delivery System is a programming framework that allows sending and receiving data that fulfills specific criteria. The advantage of the Event Delivery System is the immediate forwarding of data in real time via two fundamental functions; `push` and `pull`. These two functions are independent of each other. 
 
 During each `push` call, the intermediate system node (_broker_) should;
 - **be able to handle data incoming from different _publishers_ concurrently** (in our case users) and
