@@ -53,7 +53,7 @@ The role of `pull` is to deliver all the data of an intermediate node that conce
 ## Setting up the brokers and the app
 
 Setting up:
-- In order to start the brokers (the servers that receive and promote packages to users), you need to open the DS folder as an Eclipse project. You will have to set up the desired IPs and ports for the brokers in the conf.txt file. Upon doing that, you have to start the brokers. There is one java main class for all 3 premade brokers.-
+- In order to start the brokers (the servers that receive and promote packages to users), you need to open the DS folder as an Eclipse project. You will have to set up the desired IPs and ports for the brokers in the conf.txt file. Upon doing that, you have to start the brokers. There is one java main class for all 3 premade brokers.
 
 - In order for the app to connect to the correct server you have to setup the ips and ports of the desired brokers (servers) as well. To do that, open the whole repository as an Android Studio project. Then you will have to setup the confuser.txt file that's in the raw resources folder. You will have to put the ips and ports of the servers there.
 
