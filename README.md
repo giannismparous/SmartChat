@@ -1,6 +1,6 @@
 # SmartChat
 
-A distributed messenger app for Android.
+A distributed messenger app for Android. Messages can be text, images or videos. The app includes a picture and video player. Also in the last update profile pictures were introduced.
 
 Authors; [Giannis Mparous](https://github.com/giannismparous "Giannis Mparous"), [Dimitris Milios](https://github.com/DimMil24 "Dimitris Milios")
 
