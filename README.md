@@ -28,7 +28,7 @@ During each `push` call, the intermediate system node (_broker_) should;
 
 Concurrency is inevitable because the system is required to offer simultaneous data delivery from _publishers_ to _brokers_ and from _brokers_ to _subscribers_. All subscribed users must simultaneously receive the same content.
 
-The aforementioned model is backed backed by the two core functions that can be described by the following figure;
+The model's core functions can be described by the following figure;
 
 <p align="center">
   <img src="https://github.com/giannismparous/SmartChatters/blob/main/framework_prototype.png" />
