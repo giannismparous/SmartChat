@@ -1,6 +1,6 @@
 # SmartChat
 
-A very simple distributed messenger app for Android.
+A distributed messenger app for Android.
 
 Authors; [Giannis Mparous](https://github.com/giannismparous "Giannis Mparous"), [Dimitris Milios](https://github.com/DimMil24 "Dimitris Milios")
 
